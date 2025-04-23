@@ -215,8 +215,5 @@ The pipeline ensures consistent preprocessing and feature engineering for both t
 
 ## License
 
-[Your License Here]
+This project is created for self Learning Process
 
-## Contact
-
-[Your Contact Information] 
